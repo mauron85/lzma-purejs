@@ -1,5 +1,5 @@
 if (typeof define !== 'function') { var define = require('amdefine')(module); }
-define(['./lib/freeze', './lib/LZ', './lib/LZMA', './lib/RangeCoder', './lib/Stream', './lib/Util'], function(freeze, LZ, LZMA, RangeCoder, Stream, Util) {
+define(['./lib/amd/freeze', './lib/amd/LZ', './lib/amd/LZMA', './lib/amd/RangeCoder', './lib/amd/Stream', './lib/amd/Util'], function(freeze, LZ, LZMA, RangeCoder, Stream, Util) {
   'use strict';
 
   return freeze({

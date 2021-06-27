@@ -1,5 +1,8 @@
 # lzmajs
 
+## Fork notice
+This is fork of [lzmajs-pure](https://github.com/cscott/lzma-purejs) converted to ES modules using [amd-to-es6](https://www.npmjs.com/package/amd-to-es6).
+
 [![Build Status][1]][2] [![dependency status][3]][4] [![dev dependency status][5]][6]
 
 `lzmajs` is a fast pure-JavaScript implementation of LZMA

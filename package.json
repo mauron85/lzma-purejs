@@ -5,6 +5,7 @@
   "description": "pure JavaScript LZMA de/compression, for node.js, volo, and the browser.",
   "keywords": ["lzma", "compression", "decompression"],
   "main": "main",
+  "module": "./lib/esm/Util.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/cscott/lzma-purejs.git"
