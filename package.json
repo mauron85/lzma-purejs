@@ -29,5 +29,6 @@
     "test": "mocha"
   },
   "amd": {},
-  "volo": {}
+  "volo": {},
+  "sideEffects": false
 }
